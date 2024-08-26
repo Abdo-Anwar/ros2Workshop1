@@ -1,0 +1,4 @@
+[console_scripts]
+ultrasonic_publisher = worksohp1.ultrasonic_publisher:main
+ultrasonic_subscriber = worksohp1.ultrasonic_subscriber:main
+

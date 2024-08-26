@@ -1,0 +1,24 @@
+[0.289s] Invoking command in '/home/anwar/ros2_Workshop1_ws/src/worksohp1': PYTHONPATH=/home/anwar/ros2_Workshop1_ws/build/worksohp1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/worksohp1 build --build-base /home/anwar/ros2_Workshop1_ws/build/worksohp1/build install --record /home/anwar/ros2_Workshop1_ws/build/worksohp1/install.log --single-version-externally-managed install_data
+[0.402s] running egg_info
+[0.402s] writing ../../build/worksohp1/worksohp1.egg-info/PKG-INFO
+[0.402s] writing dependency_links to ../../build/worksohp1/worksohp1.egg-info/dependency_links.txt
+[0.402s] writing entry points to ../../build/worksohp1/worksohp1.egg-info/entry_points.txt
+[0.402s] writing requirements to ../../build/worksohp1/worksohp1.egg-info/requires.txt
+[0.402s] writing top-level names to ../../build/worksohp1/worksohp1.egg-info/top_level.txt
+[0.403s] reading manifest file '../../build/worksohp1/worksohp1.egg-info/SOURCES.txt'
+[0.404s] writing manifest file '../../build/worksohp1/worksohp1.egg-info/SOURCES.txt'
+[0.404s] running build
+[0.404s] running build_py
+[0.404s] copying worksohp1/ultrasonic_subscriber.py -> /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1
+[0.404s] running install
+[0.404s] running install_lib
+[0.404s] copying /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1/ultrasonic_subscriber.py -> /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1
+[0.405s] byte-compiling /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1/ultrasonic_subscriber.py to ultrasonic_subscriber.cpython-310.pyc
+[0.405s] running install_data
+[0.405s] running install_egg_info
+[0.406s] removing '/home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1-0.0.0-py3.10.egg-info' (and everything under it)
+[0.406s] Copying ../../build/worksohp1/worksohp1.egg-info to /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1-0.0.0-py3.10.egg-info
+[0.406s] running install_scripts
+[0.418s] Installing ultrasonic_subscriber script to /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/worksohp1
+[0.418s] writing list of installed files to '/home/anwar/ros2_Workshop1_ws/build/worksohp1/install.log'
+[0.431s] Invoked command in '/home/anwar/ros2_Workshop1_ws/src/worksohp1' returned '0': PYTHONPATH=/home/anwar/ros2_Workshop1_ws/build/worksohp1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/worksohp1 build --build-base /home/anwar/ros2_Workshop1_ws/build/worksohp1/build install --record /home/anwar/ros2_Workshop1_ws/build/worksohp1/install.log --single-version-externally-managed install_data

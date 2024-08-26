@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/worksohp1/worksohp1.egg-info
+writing ../../build/worksohp1/worksohp1.egg-info/PKG-INFO
+writing dependency_links to ../../build/worksohp1/worksohp1.egg-info/dependency_links.txt
+writing entry points to ../../build/worksohp1/worksohp1.egg-info/entry_points.txt
+writing requirements to ../../build/worksohp1/worksohp1.egg-info/requires.txt
+writing top-level names to ../../build/worksohp1/worksohp1.egg-info/top_level.txt
+writing manifest file '../../build/worksohp1/worksohp1.egg-info/SOURCES.txt'
+reading manifest file '../../build/worksohp1/worksohp1.egg-info/SOURCES.txt'
+writing manifest file '../../build/worksohp1/worksohp1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anwar/ros2_Workshop1_ws/build/worksohp1/build
+creating /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib
+creating /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1
+copying worksohp1/__init__.py -> /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1
+running install
+running install_lib
+creating /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1
+copying /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1/__init__.py -> /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1
+byte-compiling /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/anwar/ros2_Workshop1_ws/install/worksohp1/share/ament_index
+creating /home/anwar/ros2_Workshop1_ws/install/worksohp1/share/ament_index/resource_index
+creating /home/anwar/ros2_Workshop1_ws/install/worksohp1/share/ament_index/resource_index/packages
+copying resource/worksohp1 -> /home/anwar/ros2_Workshop1_ws/install/worksohp1/share/ament_index/resource_index/packages
+copying package.xml -> /home/anwar/ros2_Workshop1_ws/install/worksohp1/share/worksohp1
+running install_egg_info
+Copying ../../build/worksohp1/worksohp1.egg-info to /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/anwar/ros2_Workshop1_ws/build/worksohp1/install.log'

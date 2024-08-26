@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/worksohp1/worksohp1.egg-info/PKG-INFO
+writing dependency_links to ../../build/worksohp1/worksohp1.egg-info/dependency_links.txt
+writing entry points to ../../build/worksohp1/worksohp1.egg-info/entry_points.txt
+writing requirements to ../../build/worksohp1/worksohp1.egg-info/requires.txt
+writing top-level names to ../../build/worksohp1/worksohp1.egg-info/top_level.txt
+reading manifest file '../../build/worksohp1/worksohp1.egg-info/SOURCES.txt'
+writing manifest file '../../build/worksohp1/worksohp1.egg-info/SOURCES.txt'
+running build
+running build_py
+copying worksohp1/ultrasonic_publisher.py -> /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1
+copying worksohp1/ultrasonic_subscriber.py -> /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1
+running install
+running install_lib
+copying /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1/ultrasonic_publisher.py -> /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1
+copying /home/anwar/ros2_Workshop1_ws/build/worksohp1/build/lib/worksohp1/ultrasonic_subscriber.py -> /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1
+byte-compiling /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1/ultrasonic_publisher.py to ultrasonic_publisher.cpython-310.pyc
+byte-compiling /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1/ultrasonic_subscriber.py to ultrasonic_subscriber.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/worksohp1/worksohp1.egg-info to /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/python3.10/site-packages/worksohp1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ultrasonic_publisher script to /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/worksohp1
+Installing ultrasonic_subscriber script to /home/anwar/ros2_Workshop1_ws/install/worksohp1/lib/worksohp1
+writing list of installed files to '/home/anwar/ros2_Workshop1_ws/build/worksohp1/install.log'
